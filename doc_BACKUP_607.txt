@@ -1,0 +1,6 @@
+koeres berbao kek máximo
+<<<<<<< HEAD
+alteracao em develop
+=======
+lul
+>>>>>>> master
