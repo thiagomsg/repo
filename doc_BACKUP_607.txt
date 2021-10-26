@@ -1,6 +1,6 @@
 koeres berbao kek máximo
-<<<<<<< .merge_file_a10000
+<<<<<<< HEAD
 alteracao em develop
 =======
 lul
->>>>>>> .merge_file_a06024
+>>>>>>> master
